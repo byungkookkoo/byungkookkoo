@@ -1,6 +1,6 @@
 ## Byungkook Koo
 
-* Data Scientist | AI Engineer
+* AI Engineer | Data Scientist
 * Research Interest: Time series data analysis, Anomaly detection, Domain adaptation
 <!-- 
 [Blog](https://byungkookkoo.github.io/)
